@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+         version="5.0">
+<!--    <display-name>ArtWood</display-name>-->
+<!--    <servlet>-->
+<!--        <servlet-name>ProduitControlleur</servlet-name>-->
+<!--        <servlet-class>com.example.artwood.controlleur.ProduitControlleur</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>ProduitControlleur</servlet-name>-->
+<!--        <url-pattern>/Produit</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    <servlet>-->
+<!--        <servlet-name>ClientControleur</servlet-name>-->
+<!--        <servlet-class>com.example.artwood.controlleur.ClientControlleur</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>ClientControleur</servlet-name>-->
+<!--        <url-pattern>/clientServlet</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+<!--    <servlet>-->
+<!--        <servlet-name>UserControlleur</servlet-name>-->
+<!--        <servlet-class>com.example.artwood.controlleur.UserControlleur</servlet-class>-->
+<!--    </servlet>-->
+<!--    <servlet-mapping>-->
+<!--        <servlet-name>UserControlleur</servlet-name>-->
+<!--        <url-pattern>/Login</url-pattern>-->
+<!--    </servlet-mapping>-->
+
+</web-app>
