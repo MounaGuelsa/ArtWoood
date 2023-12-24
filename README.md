@@ -36,8 +36,6 @@ OrderCraft est une application Java EE développée pour aider l'entreprise arti
 - **Gestion de Dépendances:** Apache Maven
 - **Base de Données:** MySQL
 - **Serveur d'Application:** Apache Tomcat
-- **Gestion des tâches:** [Outil de votre choix]
-- **Système de Gestion de Version:** Git et Github
 - **Logging:** Log4j pour la gestion des journaux
 
 
